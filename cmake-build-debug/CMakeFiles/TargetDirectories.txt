@@ -1,5 +1,0 @@
-/home/robot/CppProject/Basler_Demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/robot/CppProject/Basler_Demo/cmake-build-debug/CMakeFiles/Grab.dir
-/home/robot/CppProject/Basler_Demo/cmake-build-debug/CMakeFiles/multi_grab_v1.dir
-/home/robot/CppProject/Basler_Demo/cmake-build-debug/CMakeFiles/multi_grab_v2.dir
-/home/robot/CppProject/Basler_Demo/cmake-build-debug/CMakeFiles/edit_cache.dir
